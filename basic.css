@@ -1,0 +1,18 @@
+.photo{
+	display: none;
+}
+
+.jmu{
+	display: none;
+}
+
+.rio{
+	font-weight: bolder;
+	font-size: 14pt;
+}
+
+.dog{
+	display:block;
+	font-weight:bold;
+	font-size: 25pt;
+}
